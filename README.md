@@ -26,7 +26,7 @@ Computer Engineering Student
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,git,github,linux,bash,cursor,eclipse,vscode,claude"/>
+<img src="https://skillicons.dev/icons?i=java,python,git,github,linux,bash,idea,eclipse,vscode"/>
 
 </p>
 
@@ -66,17 +66,6 @@ Computer Engineering Student
 <img src="https://raw.githubusercontent.com/SanchezAlbaladejoPablo/SanchezAlbaladejoPablo/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-# 📂 Projects
-
-Some of the projects I have worked on include:
-
-💬 Chat application in Java  
-
-📚 Educational platform with modules and exercises  
-
-🧪 Various software engineering and programming projects
 
 ---
 
