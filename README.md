@@ -26,7 +26,7 @@ Computer Engineering Student
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,git,github,linux,bash,idea,eclipse,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,git,github,linux,bash,cursor,eclipse,vscode,claude"/>
 
 </p>
 
